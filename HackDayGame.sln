@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{9177EEC8-E693-E65A-280D-E09B4D1ADEB4}") = "HackDayGame", "Assembly-CSharp.csproj", "{78E2B4D6-16D6-AC19-60A6-8D2FDA8CF896}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackDayGame", "Assembly-CSharp.csproj", "{78E2B4D6-16D6-AC19-60A6-8D2FDA8CF896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
